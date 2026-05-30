@@ -3,7 +3,7 @@
 # Sankalp Pandya
 
 ### Agentic AI Engineer · LLM Systems Architect
-#### 15+ years building AI in production · 20 years in software engineering
+#### I take AI systems from prototype to reliable production
 
 </div>
 
